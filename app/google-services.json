@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684094924285",
+    "project_id": "invoid-b3ce1",
+    "storage_bucket": "invoid-b3ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684094924285:android:44c7297dddb4fdb8af6594",
+        "android_client_info": {
+          "package_name": "com.example.invoidlibraryapplicationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684094924285-j6f6ssgnojfs04tqgc549m1hchr5bf8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZ_BEMYWLcfI0nPJ4o1v8jv_OrgpebRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684094924285-j6f6ssgnojfs04tqgc549m1hchr5bf8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
